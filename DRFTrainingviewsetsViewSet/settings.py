@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'ViewSet1',
     'ViewSet2',
+    'ViewSet3',
 ]
 
 MIDDLEWARE = [
