@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'ViewSet1',
     'ViewSet2',
     'ViewSet3',
+    'ViewSet4',
 ]
 
 MIDDLEWARE = [
