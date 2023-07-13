@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     'ViewSet10',
     'ViewSet11',
     'ViewSet12',
+    'ViewSet13',
 
 ]
 
