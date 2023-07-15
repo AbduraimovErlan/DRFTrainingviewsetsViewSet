@@ -32,3 +32,8 @@ class ViewSetBook26(viewsets.ViewSet):
         books = Book26.objects.get(pk=id)
         books.delete()
         return Response({'message': 'Data Deleted'})
+
+
+
+
+
