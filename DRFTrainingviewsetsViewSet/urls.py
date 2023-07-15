@@ -31,5 +31,6 @@ urlpatterns = [
     path('api/v1/', include('ViewSet25.urls')),
     path('api/v1/', include('ViewSet26.urls')),
     path('api/v1/', include('ViewSet27.urls')),
+    path('api/v1/', include('ViewSet28.urls')),
 
 ]
